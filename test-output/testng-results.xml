@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-21T08:51:11 IST" name="Suite" finished-at="2023-01-21T08:51:12 IST" duration-ms="269">
+    <groups>
+      <group name="regression">
+        <method signature="Demo3_Test.Test3()[pri:0, instance:com.jenkinsproject.Demo3_Test@50ad3bc1]" name="Test3" class="com.jenkinsproject.Demo3_Test"/>
+        <method signature="Demo4_Test.Test4()[pri:0, instance:com.jenkinsproject.Demo4_Test@44821a96]" name="Test4" class="com.jenkinsproject.Demo4_Test"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2023-01-21T08:51:11 IST" name="Test" finished-at="2023-01-21T08:51:12 IST" duration-ms="269">
+      <class name="com.jenkinsproject.Demo3_Test">
+        <test-method signature="Test3()[pri:0, instance:com.jenkinsproject.Demo3_Test@50ad3bc1]" started-at="2023-01-21T08:51:12 IST" name="Test3" finished-at="2023-01-21T08:51:12 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- com.jenkinsproject.Demo3_Test -->
+      <class name="com.jenkinsproject.Demo4_Test">
+        <test-method signature="Test4()[pri:0, instance:com.jenkinsproject.Demo4_Test@44821a96]" started-at="2023-01-21T08:51:12 IST" name="Test4" finished-at="2023-01-21T08:51:12 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- com.jenkinsproject.Demo4_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
