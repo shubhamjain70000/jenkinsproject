@@ -20,6 +20,7 @@ public class DemoTest {
 	public void Test7()
 	{
 		System.out.println("--Test7--");
+		System.out.println("hii");
 	}
 	
 
